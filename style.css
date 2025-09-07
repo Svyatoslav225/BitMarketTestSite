@@ -50,6 +50,7 @@ nav {
     color: rgba(255, 255, 255, 0.664);
     text-decoration: none;
     display: block;
+    transition: font-size 0.5s ease-out 0.1s;
 }
 h1 {
     text-align: center;
